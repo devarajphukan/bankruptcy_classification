@@ -9,7 +9,7 @@ You are expected to:
 * Report you results clearly and concisely.
 
 The independent variables are described below:
-X1 net profit / total assets
+X1 net profit / total assets\n
 X2 total liabilities / total assets
 X3 working capital / total assets
 X4 current assets / short-term liabilities
